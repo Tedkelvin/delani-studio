@@ -19,8 +19,11 @@ This program inorder to be accessed you are reguired to have the following;
     
  ## SETUP & INSTALLATION INSTRUCTION
  This program does not reguire special installation you just need to do the following;
+ 
     1.Enter to this link <a>https://github.com/Tedkelvin/delani-studio</a>
+    
     2.Then you clone the code to your respective place
+    
     3.Then you can open using a browser
     
   ## CONTACT INFORMATION
